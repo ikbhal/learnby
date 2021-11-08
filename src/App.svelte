@@ -117,4 +117,16 @@ let links = [
 </main>
 
 <style>
+main {
+	margin: 50px;
+}
+
+ul {
+	border: 1px solid grey;
+	border-radius: 6px;
+	padding: 10px;
+}
+ul li {
+	list-style:  none;
+}
 </style>
